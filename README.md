@@ -10,7 +10,12 @@
 
 DataVista is a powerful, user-friendly web application that transforms your data into beautiful, interactive visualizations. Simply drag and drop your CSV or Excel files, and watch as your data comes to life through intuitive charts and graphs.
 
-![DataVista Demo](assets/datavista-demo.gif)
+### Home Page
+![datavista](https://github.com/user-attachments/assets/c6d90f77-4be8-4520-b3a4-9b30eb4715a2)
+
+## App Demo
+
+![DataVista Demo](https://github.com/user-attachments/assets/72cf782a-4ace-460e-a535-431a004f2aeb)
 
 ## ✨ Features
 
@@ -36,17 +41,6 @@ DataVista is a powerful, user-friendly web application that transforms your data
 - Custom Color Schemes
 - Smooth Animations
 - Error Handling
-
-## 🖥️ Screenshots
-
-### Home Page
-![Home Page](assets/homepage.png)
-
-### Data Upload
-![Data Upload](assets/data-upload.png)
-
-### Visualization Dashboard
-![Dashboard](assets/dashboard.png)
 
 ## 🚀 Getting Started
 
