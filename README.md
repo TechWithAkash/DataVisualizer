@@ -15,7 +15,7 @@ DataVista is a powerful, user-friendly web application that transforms your data
 
 ## App Demo
 
-![DataVista Demo](https://github.com/user-attachments/assets/72cf782a-4ace-460e-a535-431a004f2aeb)
+[Watch the demo](https://github.com/user-attachments/assets/72cf782a-4ace-460e-a535-431a004f2aeb)
 
 ## ✨ Features
 
